@@ -1,0 +1,118 @@
+@media(max-width: 830px){
+
+.flex-container, .flex-container-2{
+flex-direction: column;
+
+}
+
+.element-7, .element-8,.element-9{
+	margin-top: 25px;
+	margin-bottom: 25px;
+	justify-content: flex-start;
+}
+.flex-container-2-1{
+display: none;
+}
+
+ul {
+flex-direction: column;
+
+justify-content: center;
+align-items: center;
+text-align: center;
+}
+
+.sld {
+ 
+left: 16%;
+   
+}
+
+.partners-small {
+ flex-direction: column;
+justify-content: center;
+align-items: center;
+text-align: center;
+}
+
+
+
+
+.footer{
+flex-direction: column;
+justify-content: center;
+align-items: center;
+text-align: center;
+}
+
+/*.navbar-menu > ul{
+	display: none;
+}
+
+.navbar-menu > ul:hover{
+	display: block;
+}*/
+
+}
+/*.burger{
+display: flex;
+justify-content: center;
+align-items: center;
+text-align: center;
+display: block;
+top: 323px;
+left: 10px;
+padding-bottom: 90px;
+
+}*/
+
+/*.burger:hover{*/
+/*display: flex;
+justify-content: center;
+align-items: center;
+text-align: center;
+display: block;
+top: 330px;
+left: 10px;*/
+/*padding-right: 50%;
+padding-bottom: 90px;
+
+}*/
+
+/*.navbar-menu>.burger:hover~ul{
+	display: block;
+}*/
+
+
+/*}*/
+
+
+/*@media(max-width: 568px){
+.burger{
+display: flex;
+justify-content: center;
+align-items: center;
+text-align: center;
+display: block;
+top: 520px;
+left: -14px;
+padding-bottom: 90px;
+
+}*/
+
+
+/*@media(max-width: 470px){
+.burger{
+display: flex;
+justify-content: center;
+align-items: center;
+text-align: center;
+display: block;
+top: 323px;
+left: -14px;
+padding-bottom: 90px;
+
+}*/
+
+	
+/*}*/
